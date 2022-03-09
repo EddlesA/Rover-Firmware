@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM5",
+    "sketch": "1.3_Rover_Firmware_Mk2.ino"
+}

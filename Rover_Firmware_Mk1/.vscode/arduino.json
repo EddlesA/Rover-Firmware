@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:uno",
+    "port": "COM5",
+    "sketch": "Rover_Firmware_Mk1.ino"
+}
